@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Day_Skybox.png</file>
+        <file>Day_Skybox_negx.png</file>
+        <file>Day_Skybox_negy.png</file>
+        <file>Day_Skybox_negz.png</file>
+        <file>Day_Skybox_posx.png</file>
+        <file>Day_Skybox_posy.png</file>
+        <file>Day_Skybox_posz.png</file>
+        <file>CustomCameraControl.qml</file>
+    </qresource>
+</RCC>
